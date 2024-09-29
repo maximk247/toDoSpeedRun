@@ -1,5 +1,7 @@
 # Vue 3 + TypeScript + Vite
 
+[Деплой](https://to-do-speed-run.vercel.app/)
+
 ## Установка и запуск
 
 ```bash
